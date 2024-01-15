@@ -28,6 +28,11 @@
   "permissions": [
     "storage",
     "webNavigation"
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "37b04f88-b1e9-444c-9da4-dce58cd1b9b1"
+    }
+  }
 
 }
